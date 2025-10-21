@@ -64,5 +64,5 @@ The system follows a simple but effective logic:
 * [cite_start]**Data Logging:** Store moisture data over time to analyze water consumption and plant health trends. [cite: 117]
 
 ---
-[cite_start]*Project by: Muhammad Haroon, Muneeb Ahmad, Ehtisham, Ali Asghar, Lubna Rahim. [cite: 10]*
+*Project by: Muhammad Haroon*
 [cite_start]*SZABIST ISB, BS-AI-2A. [cite: 12, 13]*
